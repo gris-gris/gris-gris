@@ -10,7 +10,8 @@
 Some of my skills:
 - Cloud providers: AWS, GCP, Azure, OCI, DigitalOcean, Hetzner, Vultr
 - Practices: Release management, on-call, resource planning, well-done documentation, Agile, Scrum
-- Cloud-native tools: Kubernetes, OpenShift (OKD platform), Vault, Prometheus, Grafana, ELK-stack, Harbor
+- Container platforms: Kubernetes, OpenShift (OKD)
+- Infrastructure-related: Vault, Prometheus, Grafana, ELK-stack, Harbor
 - IaaC: Terraform, Ansible, 
 - CI/CD: Jenkins, Gitlab-CI, DroneCI, TravisCI
 - Databases: MongoDB, ArangoDB, MySQL, PostgreSQL, CockroachDB
