@@ -9,11 +9,11 @@
 
 Some of my skills:
 - Cloud providers: AWS, GCP, Azure, OCI, DigitalOcean, Hetzner, Vultr
-- Practices: Release management, on-call, resource planning, well-done documentation, Agile, Scrum
+- Practices: Release management, on-call, resource/capatity planning, well-done documentation, Agile, Scrum
 - Container platforms: Kubernetes, OpenShift (OKD)
 - Infrastructure-related: Vault, Prometheus, Grafana, ELK-stack, Harbor
-- IaaC: Terraform, Ansible, 
-- CI/CD: Jenkins, Gitlab-CI, DroneCI, TravisCI
+- IaaC: Terraform, Ansible
+- CI/CD: Jenkins, GitHub Actions, Gitlab-CI, DroneCI, TravisCI
 - Databases: MongoDB, ArangoDB, MySQL, PostgreSQL, CockroachDB
 - Networks: Secured P2P environments, zero-trust networks, Firewalls like OPNSense/pfSense, DPI, IDS
 
