@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/country-Russia%20%F0%9F%87%B7%F0%9F%87%BA-blue"/> </br>
 
 ### Hello! My name is Alexey
-:wave: I'm a DevOps Engineer with Cloud Native experience </br>
+:wave: I'm a SRE with Cloud Native experience </br>
 :book: I'm currently learning Golang, gRPC, Microservice architecture best practices </br>
 :heart: Open-source, fresh ideas, distributed systems, CLI, Kubernetes and coffee :coffee: </br>
 :mailbox: You can ask me anything in [Telegram](https://t.me/riddlesterling) but I can answer a little slow sometimes </br>
