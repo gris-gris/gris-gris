@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/country-Russia%20%F0%9F%87%B7%F0%9F%87%BA-blue"/> </br>
+<!-- <img src="https://img.shields.io/badge/country-Russia%20%F0%9F%87%B7%F0%9F%87%BA-blue"/> </br> -->
 
 ### Hello! My name is Alexey
 :wave: I'm a SRE with Cloud Native experience </br>
