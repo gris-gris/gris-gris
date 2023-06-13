@@ -4,7 +4,6 @@
 :wave: I'm a SRE with Cloud Native experience </br>
 :book: I'm currently learning Golang, gRPC, Microservice architecture best practices </br>
 :heart: Open-source, fresh ideas, distributed systems, CLI, Kubernetes and coffee :coffee: </br>
-:mailbox: You can ask me anything in [Telegram](https://t.me/riddlesterling) but I can answer a little slow sometimes </br>
 :hammer: [LinkedIn](https://www.linkedin.com/in/alexey-efimov-7a1b73151/)
 
 Some of my skills:
