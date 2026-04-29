@@ -14,7 +14,7 @@ Some of my skills:
 - IaaC: Terraform, Ansible
 - CI/CD: Jenkins, GitHub Actions, Gitlab-CI, DroneCI, TravisCI
 - Databases: MongoDB, ArangoDB, MySQL, PostgreSQL, CockroachDB
-- Networks: Secured P2P environments, zero-trust networks, Firewalls like OPNSense/pfSense, DPI, IDS
+- Networks: Secured environments, zero-trust networks
 
 <img src="https://i.pinimg.com/originals/63/de/a9/63dea981c6bad8559982f72c1fba55aa.gif">
 <!--
